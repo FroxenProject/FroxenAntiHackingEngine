@@ -12,3 +12,5 @@ Provides API Hooking to harden process even more, to make it a little struggle f
 
 ### Windows Mitigations
 Provides Windows Exploit Mitigations for the C# Process, like: ASLR Customization, Child Process Mitigation (prevents creating new child processes), Win32k Calls Mitigation Policy which prevents Win32k.sys privilege-of-escalation sandbox escapes attacks by blocking calls to Win32k.sys, Disable Non-System Fonts Mitigation Policy which prevents processing untrusted fonts and mitigate some kernel sandbox escapes, Binary Signature Mitigation Policy (only microsoft-signed images are allowed to load into the process), Termination On Heap Corruption, Image Load Mitigation Policy (prevents loading remotely located images to the process), Extension Point Disable Mitigation Policy (in short it prevents certain privilege-of-escalation by disabling some extension points).
+
+### Job Objects
