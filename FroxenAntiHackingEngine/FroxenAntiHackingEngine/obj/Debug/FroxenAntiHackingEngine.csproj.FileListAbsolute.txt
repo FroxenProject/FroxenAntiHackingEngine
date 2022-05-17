@@ -1,0 +1,8 @@
+C:\Users\Ezz bali\source\repos\FroxenAntiHackingEngine\FroxenAntiHackingEngine\bin\Debug\FroxenAntiHackingEngine.dll
+C:\Users\Ezz bali\source\repos\FroxenAntiHackingEngine\FroxenAntiHackingEngine\bin\Debug\FroxenAntiHackingEngine.pdb
+C:\Users\Ezz bali\source\repos\FroxenAntiHackingEngine\FroxenAntiHackingEngine\obj\Debug\FroxenAntiHackingEngine.csproj.AssemblyReference.cache
+C:\Users\Ezz bali\source\repos\FroxenAntiHackingEngine\FroxenAntiHackingEngine\obj\Debug\FroxenAntiHackingEngine.Properties.Resources.resources
+C:\Users\Ezz bali\source\repos\FroxenAntiHackingEngine\FroxenAntiHackingEngine\obj\Debug\FroxenAntiHackingEngine.csproj.GenerateResource.cache
+C:\Users\Ezz bali\source\repos\FroxenAntiHackingEngine\FroxenAntiHackingEngine\obj\Debug\FroxenAntiHackingEngine.csproj.CoreCompileInputs.cache
+C:\Users\Ezz bali\source\repos\FroxenAntiHackingEngine\FroxenAntiHackingEngine\obj\Debug\FroxenAntiHackingEngine.dll
+C:\Users\Ezz bali\source\repos\FroxenAntiHackingEngine\FroxenAntiHackingEngine\obj\Debug\FroxenAntiHackingEngine.pdb
