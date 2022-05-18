@@ -1,5 +1,5 @@
 # Froxen Anti-Hacking Engine
-Advanced Anti-Exploitation Library made in C# and C++ that's supposed to protect Froxen Messenger.
+Advanced Anti-Exploitation Library made in C# and C++ that protects Froxen Messenger.
 
 ### IPC Protocol
 Contains an Anonymous Pipe-Based Inter-process communication Protocol implemented in C# that enables Froxen Parent to communicate with it's childs with an In-Out Pipe Direction.
