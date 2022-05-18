@@ -19,4 +19,4 @@ Copyright (C) FroxenProject
 
 THE "CREATOR" OF THIS PROGRAM ARE NOT RESPONSIBLE FOR ANY FORM OF MALICIOUS USE.
 
-The Program are Licensed under GNU General Public License v3.0.
+The Library are Licensed under GNU General Public License v3.0.
